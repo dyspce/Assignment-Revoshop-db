@@ -10,7 +10,7 @@ Skema database PostgreSQL untuk toko online RevoShop (Checkpoint 1, Backend Deve
 1. Install PostgreSQL dan pastikan service berjalan.
 2. Buat database:
    ```bash
-   psql -U postgres -c "CREATE revoshop-db;"
+   psql -U postgres -c "CREATE DATABASE revoshop;"
    ```
 3. Jalankan file SQL berurutan:
    ```bash
