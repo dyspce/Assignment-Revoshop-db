@@ -1,0 +1,23 @@
+# Kredensial & konfigurasi lokal
+.env
+.env.*
+.pgpass
+pgpass.conf
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log & backup
+*.log
+*.bak
+*.dump
+*.tmp
+
+# Dependency (kalau nanti ada proyek Node.js)
+node_modules/
